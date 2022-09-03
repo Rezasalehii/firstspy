@@ -1,0 +1,183 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: G6++Akytnse09zjDko/bgtHBups=
+Created-By: 1.7.0_95 (Oracle Corporation)
+SHA1-Digest-Manifest: 99xYyNVWQdcyxhASERTDWckqh0Q=
+
+Name: com/android/internal/telephony/ITelephony.aidl
+SHA1-Digest: QEsCzsHY+rL6w02bscEdwEYUyUs=
+
+Name: assets/461550
+SHA1-Digest: URec0K5TL9upWl2LL6D4DOBm24A=
+
+Name: META-INF/services/com.google.protobuf.GeneratedExtensionRegistry
+ Loader
+SHA1-Digest: 6fKU/XHf8tB1pKlTCCOyzWN6yvk=
+
+Name: res/xml-v22/wnhnicltem.xml
+SHA1-Digest: EKAXHaOoghNwLiUSCJ2n7Zaj3iQ=
+
+Name: res/drawable-mdpi-v4/ti_logo.png
+SHA1-Digest: PVSwAp/vYO8F+anYwYF0sykL1KY=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_adaptive_foreground.png
+SHA1-Digest: iMhxvSvfJQJyEZooSP/eQTJFCsI=
+
+Name: res/xml/wnhnicltem.xml
+SHA1-Digest: gOkHV5zKBQzngNYgiANrOlUxQAU=
+
+Name: res/layout/utpdrivxkr.xml
+SHA1-Digest: bap1JD7joJbFMtY8k3o8dlI+xJA=
+
+Name: res/xml/bzalwflycm.xml
+SHA1-Digest: hU2vmhnSUWNEA6SaeEwp82BOTW4=
+
+Name: res/drawable-xhdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: ZJ/oYlTIErS2TxMFPSw7UGRmRS0=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_adaptive.png
+SHA1-Digest: t+TABO6KzZHjjdxLxutS1Cmm33U=
+
+Name: res/drawable-hdpi-v4/icon.png
+SHA1-Digest: 1d8mZNqfgqqDLj4zmMB5dt3f/ZE=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_adaptive.png
+SHA1-Digest: fDCGp0pgdD/EVPelLfumPETI+ig=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: nmv5U418DLbK/IpqG+mxsvjsH5U=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_adaptive.png
+SHA1-Digest: zzArUgfhduTGXO+b0D0Iq6Muhtw=
+
+Name: res/layout/overlay.xml
+SHA1-Digest: a7M09JH9ZGhVmGRYWBwIf1lnSB0=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_adaptive_round.png
+SHA1-Digest: 6t7x2g+oFQG+HHQ1ToqHXq9MoI4=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_adaptive.png
+SHA1-Digest: wQxE47TlxuNuXlI+nxg+XrqbOBk=
+
+Name: res/layout/ruuiozlhsw.xml
+SHA1-Digest: hULTP8cdBrDTlo/3DpY0jMjNpK0=
+
+Name: assets/CSFiOkEhvRrFEhVSs
+SHA1-Digest: LRcgKrks+e9LBHvbPQ+tbhbXd2Y=
+
+Name: res/layout/use_purpose.xml
+SHA1-Digest: W66KPYKrvB4XNDbnN8awKCnmXG8=
+
+Name: res/drawable-hdpi-v4/common_full_open_on_phone.png
+SHA1-Digest: rBi3K1tEN6jx+AFVYiRunbdHRwQ=
+
+Name: res/layout/bdqkntclzj.xml
+SHA1-Digest: So+TKiTqmbi9FJXoiplZgqM8WUw=
+
+Name: res/layout/efphopmtlc.xml
+SHA1-Digest: cB5+Rva6GvQZ998BG3H6hgkTOW8=
+
+Name: res/layout/ewhogqwchv.xml
+SHA1-Digest: HpqMBKbYz7iaUkgJ3qZlcgIuj6I=
+
+Name: res/color/common_google_signin_btn_text_dark.xml
+SHA1-Digest: XQ81TBq6cTx6scRpdgBgFg0N8nY=
+
+Name: res/drawable-mdpi-v4/logo.png
+SHA1-Digest: mJE6mHxAC2YrIZU5FMt5tBa/2As=
+
+Name: lib/armeabi-v7a/libwcxnlfrf.so
+SHA1-Digest: CCPTwODa2lsuiuPZt9L9aWOuEwU=
+
+Name: META-INF/services/com.kenai.jbosh.HTTPSender
+SHA1-Digest: PkloYCNvXPN5xlWR0DT8D+ynwqM=
+
+Name: res/layout/yfppoxysbu.xml
+SHA1-Digest: ALGYwwfBzCAIrhvcZ3a3R93U/1A=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_adaptive_foreground.png
+SHA1-Digest: aKEM0bR0NrI8NgGz0RGTukul2a8=
+
+Name: res/layout/nxsjuxtvja.xml
+SHA1-Digest: qP63XUYEs1jJ38Eh9h/Qp5S7aSM=
+
+Name: res/drawable-mdpi-v4/icon.png
+SHA1-Digest: FuScwfyp0NGN7VCyWHGljzG5NCs=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_adaptive_foreground.png
+SHA1-Digest: dtF0GuxiaVIXgBMOrHiBo3ZmM0w=
+
+Name: resources.arsc
+SHA1-Digest: zYt7sEGH8ch815HQnpUscPf+ltM=
+
+Name: res/layout/okakryeomr.xml
+SHA1-Digest: wCsrF7ZLh04aOiGHe/hqEO0h/1E=
+
+Name: AndroidManifest.xml
+SHA1-Digest: wLhv2YJMdjU+9CKl+3CbJET9KtI=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_adaptive_round.png
+SHA1-Digest: Rc6ehdgdVJtekvW3dMBMrBN4WA0=
+
+Name: res/drawable-hdpi-v4/ic_checkbox_marked_circle.png
+SHA1-Digest: JE3jSpk+B5sY7oL96bsmxOsJdcg=
+
+Name: res/layout/seonmjudjm.xml
+SHA1-Digest: gm41eyO0ryKTOUmHOV54tDdMpuE=
+
+Name: res/layout/hbvtihuubt.xml
+SHA1-Digest: grLg22alrlz6mftvOMlQ1T3EySA=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_adaptive_foreground.png
+SHA1-Digest: 1ybbv9zk4kSmwnR3mBPi4dgEWeA=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_adaptive_foreground.png
+SHA1-Digest: hNVJ0MhaH4yP5wKIO0Y6mWpt8ao=
+
+Name: res/drawable-hdpi-v4/bg_button.xml
+SHA1-Digest: m54WPwktW4JImTwjF7LFny3+RsQ=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_adaptive_round.png
+SHA1-Digest: 0QF8uk/xRmHYSls7Y/gwXJc/AHQ=
+
+Name: res/layout/cruibpiyvz.xml
+SHA1-Digest: F4ErxmL/uYXUA3SmCMgaloNGtRc=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_adaptive_round.png
+SHA1-Digest: kJZt/JjWvUe3VPTNMmhFsXqsshs=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_adaptive.png
+SHA1-Digest: Z+uMW1LCknuuacMFokK3Klisdao=
+
+Name: res/layout/cjxvxpzeqa.xml
+SHA1-Digest: cC9KSUFP0ZpcC4iVjGhi3lXPC2w=
+
+Name: build-data.properties
+SHA1-Digest: MXKie+4F4fD31lNUvc5ovnNr6tA=
+
+Name: res/mipmap-anydpi-v26/ic_launcher_adaptive_round.xml
+SHA1-Digest: yhR5nq+vCDCkN/l9/F2cOSiu7fI=
+
+Name: res/color/common_google_signin_btn_text_light.xml
+SHA1-Digest: 3jA4WfnNpJyDT6IIGNCj7LXUyUE=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_adaptive_round.png
+SHA1-Digest: Ghq69PN5JPS+vl/eLe3JnhTic/Q=
+
+Name: res/layout/duymnesxad.xml
+SHA1-Digest: rcadoqexOhBBpq9M02Hx0Ja2rK0=
+
+Name: classes.dex
+SHA1-Digest: JU1ClZ357H5suk/iO7ADl2fgIww=
+
+Name: res/mipmap-anydpi-v26/ic_launcher_adaptive.xml
+SHA1-Digest: GWw8eCLFmRxflvIaQsIFBC8Nab4=
+
+Name: res/color/common_google_signin_btn_tint.xml
+SHA1-Digest: ayCvYnNO7xNPbz8Eb63nHfQ0zR4=
+
+Name: com/android/inputmethod/keyboard/internal/kl/IRemoteService.aidl
+SHA1-Digest: ld1IJeWefCb9+GZLt5jfyCoa0ck=
+
+Name: res/layout/lpvgxlthdy.xml
+SHA1-Digest: D7TWr6AOeud4vhsBYUn0sgwafHE=
+
